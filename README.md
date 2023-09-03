@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[<img src="https://raw.githubusercontent.com/harshitafk/harshitafk/master/intro.gif" alt="👋 Hi there! I'm (Harshit| Joshi)" title="👋 Hi there! I'm (Harshit|Joshi)"/>]
-
+![visitors](https://vbr.wocr.tk/badge?page_id=harshitafk&color=00cf00)
 <!--
 **harshitafk/harshitafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

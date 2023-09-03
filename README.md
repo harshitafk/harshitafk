@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=harshitafk&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=harshitafk&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)-->
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitafk&layout=compact&theme=dark&hide_border=true)
 

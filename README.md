@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[<img src="https://raw.githubusercontent.com/harshitafk/harshitafk/master/intro.gif" alt="👋 Hi there! I'm (harsh(it|joshi))" title="👋 Hi there! I'm (Harsh(it|Joshi))"/>](Harshit Joshi)
+[<img src="https://raw.githubusercontent.com/harshitafk/harshitafk/master/intro.gif" alt="👋 Hi there! I'm (Harshit| Joshi)" title="👋 Hi there! I'm (Harshit|Joshi)"/>]
 
 <!--
 **harshitafk/harshitafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

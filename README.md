@@ -3,8 +3,9 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=harshitafk&color=00cf00)
 
 
-I am Harshit Joshi 😃. I am from Uttarakhand ⛰️ and currently working as a software engineer 🤖🛠💻. </n>
+I am Harshit Joshi 😃. I am from Uttarakhand ⛰️ and currently working as a software engineer 🤖🛠💻.
 I love to explore and learn about new things.
+
 <!--
 **harshitafk/harshitafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-# <h2> Hi there, everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# <h2> Hi there, fellow coders <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=harshitafk&color=00cf00)
 

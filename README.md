@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=harshitafk&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)-->
-  
+
+  ---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitafk&layout=compact&theme=dark&hide_border=true)
 
 ![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshitafk&show_icons=true&hide_border=true&theme=dark)

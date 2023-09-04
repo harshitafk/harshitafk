@@ -49,3 +49,4 @@ Here are some ideas to get you started:
 ![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshitafk&show_icons=true&hide_border=true&theme=dark)
 
 ---
+<h1 align='center'><i>Stay awesome!</i></h1>

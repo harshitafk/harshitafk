@@ -2,6 +2,8 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=harshitafk&color=00cf00)
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
 - My name is Harshit Joshi 😃. I am from Uttarakhand ⛰️ and currently working as a software engineer 🤖🛠💻.
 - I love to explore and learn about new things.
 - 🧑‍💻 Tech I work on :
